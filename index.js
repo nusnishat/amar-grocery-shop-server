@@ -30,7 +30,9 @@ async function run() {
     const database = client.db("amarGroceryShop");
     const productCollection = database.collection("productCollection");
     const userCollection = database.collection("userCollection");
-    const orderCollection = database.collection("orderCollection");
+    const cartProducts = database.collection("cartProducts");
+    const ordersCollection = database.collection("ordersCollection");
+    const contactUsCollection = database.collection("contactUsCollection");
 
     // user related apis
     app.get('/users', async (req, res) => {
@@ -82,20 +84,21 @@ async function run() {
     //   res.send(result);
     // })
 
-    //post oderders
-    app.post('/orders', async (req, res) => {
+    //post cartProducts
+    app.post('/cartProducts', async (req, res) => {
       const newOrder = req.body;
       delete newOrder._id;  // Ensure _id is not set
-      const result = await orderCollection.insertOne(newOrder);
+      const result = await cartProducts.insertOne(newOrder);
       res.send(result);
     });
 
-    //get orders
-    app.get("/orders", async(req, res)=>{
-      const cursor = orderCollection.find();
+    //get cartProducts
+    app.get("/cartProducts", async(req, res)=>{
+      const cursor = cartProducts.find();
       const result = await cursor.toArray();
       res.send(result);
     })
+
     //read operation type: query [give data depends on a query]
      app.get('/checkOut', async(req, res)=>{
       let query = {};
@@ -103,18 +106,53 @@ async function run() {
       {
         query = {email: req.query.email}
       }
-      const result = await orderCollection.find(query).toArray();
+      const result = await cartProducts.find(query).toArray();
       res.send(result);
     })
-
-    // delete order
-    app.delete('/orders/:id', async(req, res)=>{
+    //delete cart product
+    app.delete('/cartProducts/:id', async(req, res) => {
       const id = req.params.id;
-      const query = {_id : new ObjectId(id)};
-      const result = await orderCollection.deleteOne(query);
-      res.send(result);
+      const query = { _id: new ObjectId(id) };
+      
+      try {
+          const result = await cartProducts.deleteOne(query);
+          if (result.deletedCount === 1) {
+              res.send({ success: true, message: 'Product deleted successfully.' });
+          } else {
+              res.send({ success: false, message: 'Product not found.' });
+          }
+      } catch (error) {
+          res.status(500).send({ success: false, message: 'Internal Server Error', error });
+      }
+  });
+    // get orders
+    app.get('/orders', async (req, res) => {
+      const cursor = ordersCollection.find();
+      const orders = await cursor.toArray();
+      res.send(orders);
     })
-
+    ///post order
+    app.post('/orders', async (req, res) => {
+      const newOrder = req.body;
+      delete newOrder._id;  // Ensure _id is not set
+      const result = await ordersCollection.insertOne(newOrder);
+      res.send(result);
+    });
+    // contactUs
+    // get orders
+    app.get('/contactUs', async (req, res) => {
+      const cursor = contactUsCollection.find();
+      const message = await cursor.toArray();
+      res.send(message);
+    })
+    ///post order
+    app.post('/contactUs', async (req, res) => {
+      const message = req.body;
+      delete message._id;  // Ensure _id is not set
+      const result = await contactUsCollection.insertOne(message);
+      res.send(result);
+    });
+  
     
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
