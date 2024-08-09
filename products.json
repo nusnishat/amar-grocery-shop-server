@@ -1,0 +1,585 @@
+[
+    {
+        "_id": "6228e627d3896ef167fadf39",
+        "title": "Malta",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "1 kg",
+        "price": 130,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646847528/owizy97gvvaolg1x31ie.webp"
+    },
+    {
+        "_id": "6228d5cd1a5b8a3ff7a1954a",
+        "title": "Red Tomato",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "1 kg",
+        "price": 35,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646843342/vwt6cwgqdrrunztqe7bs.webp"
+    },
+    {
+        "_id": "6229cb446c80468098beca94",
+        "title": "Parachute Naturale Shampoo Nourishing Care",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "340",
+        "price": 320,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646906181/fqyph1i9v3hr1c40efg4.webp"
+    },
+    {
+        "_id": "6228f690d3896ef167fadf8f",
+        "title": "Radhuni Turmeric ( holud ) Powder",
+        "department": "Cooking",
+        "description": "Spices",
+        "quantity": "200 gm",
+        "price": 89,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646851729/sfyb5mx8zx3nxmj5zkhj.webp"
+    },
+    {
+        "_id": "6228d5a61a5b8a3ff7a19548",
+        "title": "Alu(Potato)",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "1 kg",
+        "price": 15,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646843299/b8wmnsl7pfx0qazowlcn.webp"
+    },
+    {
+        "_id": "6228e259d3896ef167fadf21",
+        "title": "Deshi Gajor ( Local Carrot )",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "500gm",
+        "price": 15,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646846553/ygakocprpndyux5mwadf.webp"
+    },
+    {
+        "_id": "6228d803d3896ef167fadf18",
+        "title": "Dhonia Pata ( Coriander Leaves)",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "100 gm",
+        "price": 10,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646843908/iileasjdj9hlhlui5zmt.webp"
+    },
+    {
+        "_id": "6228f3e3d3896ef167fadf81",
+        "title": "Nazirshail Rice",
+        "department": "Cooking",
+        "description": "Rice",
+        "quantity": "25 kg",
+        "price": 1689,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646851043/scy0oiiglak1mnd3i4jc.webp"
+    },
+    {
+        "_id": "6228e6e5d3896ef167fadf41",
+        "title": "Green Apple",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "1 kg",
+        "price": 279,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646847715/pjykxbszjxgxfstdbmut.webp"
+    },
+    {
+        "_id": "6228f436d3896ef167fadf85",
+        "title": "Kaalar Sella Basmati Rice",
+        "department": "Cooking",
+        "description": "Rice",
+        "quantity": "1 kg",
+        "price": 325,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646851127/ydeuv9pdymhfmothuku8.webp"
+    },
+    {
+        "_id": "62298bd4ab524742bc0c8d24",
+        "title": "Knorr Soup Hot and Sour Chicken",
+        "department": "Snacks",
+        "description": "Snacks",
+        "quantity": "1 pcs",
+        "price": 48,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646889940/bhqurygqtb8fcec7g3ay.webp"
+    },
+    {
+        "_id": "62298b0dab524742bc0c8d1c",
+        "title": "Cheese Puff",
+        "department": "Snacks",
+        "description": "Snacks",
+        "quantity": "1 pcs",
+        "price": 10,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646889741/ezp4iympyvc42baaclju.webp"
+    },
+    {
+        "_id": "6229ceaf6c80468098becaa6",
+        "title": "Fresh Happy Nappy Pant Diaper",
+        "department": "BabyCare",
+        "description": "Baby Care",
+        "quantity": "24 pcs",
+        "price": 460,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646907056/qdnswlx51m9iyilfhbi7.webp"
+    },
+    {
+        "_id": "6228e3a6d3896ef167fadf29",
+        "title": "Lomba Lebu ( Long Lemon )",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "4 pcs",
+        "price": 50,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646846887/a6lvfofg8eflty6swxpo.webp"
+    },
+    {
+        "_id": "6229c8646c80468098beca84",
+        "title": "Ensure Nutrition Vanilla Flavour Powder Jar",
+        "department": "BeautyHealth",
+        "description": "Health Care",
+        "quantity": "400",
+        "price": 444,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646905445/z45twz23dljhw8udaa0h.webp"
+    },
+    {
+        "_id": "6228f765d3896ef167fadf95",
+        "title": "Cumin",
+        "department": "Cooking",
+        "description": "Spices",
+        "quantity": "100 gm",
+        "price": 69,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646851941/e5yhegczilambvfgimna.webp"
+    },
+    {
+        "_id": "6228f27fd3896ef167fadf7c",
+        "title": "Pabda Fish",
+        "department": "MeatFish",
+        "description": "Fish",
+        "quantity": "500 gm",
+        "price": 222,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646850688/gkkfnev2falodx0qtdwu.webp"
+    },
+    {
+        "_id": "6228f404d3896ef167fadf83",
+        "title": "Chinigura Rice",
+        "department": "Cooking",
+        "description": "Rice",
+        "quantity": "25 kg",
+        "price": 1370,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646851077/ttk0cexrkop5niy2tjly.webp"
+    },
+    {
+        "_id": "6229cdd46c80468098becaa2",
+        "title": "Biomil Infant Milk Cereal 3 Fruits 6 months",
+        "department": "BabyCare",
+        "description": "Baby Care",
+        "quantity": "175 gm",
+        "price": 500,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646906837/bu0etu14wuhhe3irnmlr.webp"
+    },
+    {
+        "_id": "6228f206d3896ef167fadf76",
+        "title": "Pangas Fish",
+        "department": "MeatFish",
+        "description": "Fish",
+        "quantity": "1 kg ",
+        "price": 220,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646850567/uctv9ygt36qkzu3nwss0.webp"
+    },
+    {
+        "_id": "62298a55ab524742bc0c8d16",
+        "title": "Rfl Standard Mini Rack Red and White",
+        "department": "HomeKitchen",
+        "description": "Kitchen Applications",
+        "quantity": "1 pcs",
+        "price": 900,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646889555/fcjncgqps3nbw2zg8ibd.webp"
+    },
+    {
+        "_id": "6229cd766c80468098becaa0",
+        "title": "Baby Dress Set 13 Pcs Gift Box",
+        "department": "BabyCare",
+        "description": "Baby Care",
+        "quantity": "1 pcs",
+        "price": 1500,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646906743/n9fa0ke4u5j0idm2meck.webp"
+    },
+    {
+        "_id": "6228ec67d3896ef167fadf5e",
+        "title": "Bengal Meat Beef Mince Beef",
+        "department": "MeatFish",
+        "description": "Meat",
+        "quantity": "500 gm",
+        "price": 450,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646849128/ufar22b0y2fizg878ij9.webp"
+    },
+    {
+        "_id": "6228e3fed3896ef167fadf2d",
+        "title": "Badhakopi ( Cabbage )",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "each",
+        "price": 50,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646846974/jfy5zfcitsqyvnohyqog.webp"
+    },
+    {
+        "_id": "6228edb8d3896ef167fadf68",
+        "title": "Broiler Chicken Skin off",
+        "department": "MeatFish",
+        "description": "Meat",
+        "quantity": "1 kg",
+        "price": 279,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646849465/ynttwoghrpev9q8nafty.webp"
+    },
+    {
+        "_id": "62298865ab524742bc0c8d09",
+        "title": "QRS Led Lighting Bulb Screw 12 Watt",
+        "department": "HomeKitchen",
+        "description": "Lights and Electricals",
+        "quantity": "1 pcs",
+        "price": 1800,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646889061/sbg1j7vp35hoyvsnba6e.webp"
+    },
+    {
+        "_id": "6228e905d3896ef167fadf53",
+        "title": "Tormuj ( Water melon )",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "each",
+        "price": 350,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646848262/x1te4hqriwe39sjdee7m.webp"
+    },
+    {
+        "_id": "6229c6f66c80468098beca7c",
+        "title": "Sagudana",
+        "department": "BeautyHealth",
+        "description": "Health Care",
+        "quantity": "200 gm",
+        "price": 39,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646905079/tjwsrqd2npelm9zjwpvv.webp"
+    },
+    {
+        "_id": "6228e475d3896ef167fadf31",
+        "title": "Motorshuti ( Green Peas )",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "500 gm",
+        "price": 39,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646847093/f2akkx38cq7heashzibe.webp"
+    },
+    {
+        "_id": "6229cf7a6c80468098becaac",
+        "title": "Meril Baby Toothbrush",
+        "department": "BabyCare",
+        "description": "Baby Care",
+        "quantity": "1 pcs",
+        "price": 170,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646907256/m99u6jix10heaiielysk.webp"
+    },
+    {
+        "_id": "622988f7ab524742bc0c8d0c",
+        "title": "Rfl Apple Jug Trans 25 ltr",
+        "department": "HomeKitchen",
+        "description": "Kitchen Applications",
+        "quantity": "1 pcs",
+        "price": 270,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646889204/xifikygo3ggvygcb4xtk.webp"
+    },
+    {
+        "_id": "6228f1a3d3896ef167fadf72",
+        "title": "Mola Fish",
+        "department": "MeatFish",
+        "description": "Fish",
+        "quantity": "250 gm",
+        "price": 130,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646850468/d4v8ylertp9l4bfasls5.webp"
+    },
+    {
+        "_id": "6228e36cd3896ef167fadf27",
+        "title": "Roshun ( Garlic )",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "500 gm",
+        "price": 59,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646846829/qww83nqary7nelb88txo.webp"
+    },
+    {
+        "_id": "6229c8fa6c80468098beca88",
+        "title": "Lafz Lipstick Plush Pink",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "45 gm",
+        "price": 440,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646905595/lmjageye6scs0cug4aa1.webp"
+    },
+    {
+        "_id": "6229ca0d6c80468098beca90",
+        "title": "Nature Republic ReaNivea Soft Light Moisturising Cream Jar",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "50 ml",
+        "price": 180,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646905869/dkja667j1cgm4qmu2d3h.webp"
+    },
+    {
+        "_id": "6228e709d3896ef167fadf43",
+        "title": "Narikel ( Coconut )",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "each",
+        "price": 79,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646847753/kkbhj6fx4uuhbbfdm5ir.webp"
+    },
+    {
+        "_id": "6228f182d3896ef167fadf70",
+        "title": "Rupchada",
+        "department": "MeatFish",
+        "description": "Fish",
+        "quantity": "500 gm",
+        "price": 345,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646850435/wobaoxxxembhi6xbaidz.webp"
+    },
+    {
+        "_id": "62298d3cab524742bc0c8d32",
+        "title": "Coca Cola",
+        "department": "Snacks",
+        "description": "Beverage",
+        "quantity": "125 ltr",
+        "price": 200,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646890301/iltelsfxqjkziturlh9t.webp"
+    },
+   
+    {
+        "_id": "6229ccd16c80468098beca9e",
+        "title": "Zayn-Myza Breathable Nail Enamel Rose Macaroon",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "6 ml",
+        "price": 349,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646906578/vwdvqar6nprfl8nfdt9d.webp"
+    },
+    {
+        "_id": "6228e6bcd3896ef167fadf3f",
+        "title": "Dalim ( Pomegranete )",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "2 pcs",
+        "price": 129,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646847677/wmyqt3unqcciiunxc0pf.webp"
+    },
+    {
+        "_id": "62298983ab524742bc0c8d10",
+        "title": "Rfl Shulov Super Bucket Black 12 ltr",
+        "department": "HomeKitchen",
+        "description": "Buskets and Buckets",
+        "quantity": "1 pcs",
+        "price": 400,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646889348/vvtxsyro4l7e8vd9zi5r.webp"
+    },
+    {
+        "_id": "6228e7e1d3896ef167fadf49",
+        "title": "Anaros (  Pineapple )",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "each",
+        "price": 55,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646847970/cxqq6tfpjw1yttgzj9kl.webp"
+    },
+    {
+        "_id": "622e034fe0aa825eb1ae6a72",
+        "title": "Bengal Meat Beef Bacon",
+        "department": "MeatFish",
+        "description": "meat",
+        "quantity": "1 pcs",
+        "price": 300,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1647182671/r6my1j4zzaxyc5iz2ls6.webp"
+    },
+    {
+        "_id": "6228eddad3896ef167fadf6a",
+        "title": "Cock Chicken Skin off",
+        "department": "MeatFish",
+        "description": "Meat",
+        "quantity": "1 kg",
+        "price": 299,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646849498/ka8cscskka8eflkiyqin.webp"
+    },
+    {
+        "_id": "6229c9306c80468098beca8a",
+        "title": "Lafz Nail Polish Ballerina Rose",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "11 ml",
+        "price": 300,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646905649/uqeaqmsktjrks8qtttua.webp"
+    },
+    {
+        "_id": "6228e3c7d3896ef167fadf2b",
+        "title": "Brocokoli",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "each",
+        "price": 50,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646846920/hovsq4v2fqoslc0mio1s.webp"
+    },
+    {
+        "_id": "6228e873d3896ef167fadf4d",
+        "title": "Ajwa Dates",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "250 gm",
+        "price": 279,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646848115/arkdxrdxuwfktj7eljae.webp"
+    },
+    {
+        "_id": "6229c9676c80468098beca8c",
+        "title": "Lux Soap Bar Velvet Glow",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "75 gm",
+        "price": 70,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646905704/rdlvdndh5bezuauxazui.webp"
+    },
+    {
+        "_id": "6228ecaed3896ef167fadf60",
+        "title": "Quail Meat",
+        "department": "MeatFish",
+        "description": "Meat",
+        "quantity": "4 pcs",
+        "price": 220,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646849199/koc9alka1vb4kt5wjkpm.webp"
+    },
+    {
+        "_id": "6229c6686c80468098beca78",
+        "title": "Maltova Health and Nutrition Drink",
+        "department": "BeautyHealth",
+        "description": "Health Care",
+        "quantity": "40 gm",
+        "price": 139,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646904937/rmwqb3ouqbfom684wytq.webp"
+    },
+    {
+        "_id": "6228e4f1d3896ef167fadf35",
+        "title": "Green Capsicum",
+        "department": "VegetablesFruits",
+        "description": "Vegetables",
+        "quantity": "300 gm",
+        "price": 59,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646847218/q4hthn8qqibtrfqtidyv.webp"
+    },
+    {
+        "_id": "62298bfeab524742bc0c8d26",
+        "title": "Kolson Macaroni Shell",
+        "department": "Snacks",
+        "description": "Snacks",
+        "quantity": "400 gm",
+        "price": 60,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646889982/xfx3hz9yi9vkshwthbgg.webp"
+    },
+    {
+        "_id": "6228e8c8d3896ef167fadf51",
+        "title": "Longan Fruit",
+        "department": "VegetablesFruits",
+        "description": "Fruits",
+        "quantity": "500 gm",
+        "price": 350,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646848201/bb5znfluiaskfiq2521o.webp"
+    },
+    {
+        "_id": "6229cf446c80468098becaaa",
+        "title": "Johnsons Baby Lotion",
+        "department": "BabyCare",
+        "description": "Baby Care",
+        "quantity": "220 ml",
+        "price": 300,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646907205/eff9gftikkn9iliv2hov.webp"
+    },
+    {
+        "_id": "6229cc686c80468098beca9c",
+        "title": "Xpel Xbc Aloe Vera Cooling Gel",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "250 gm",
+        "price": 250,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646906472/yelciztbiyq4hjryhuj2.webp"
+    },
+    {
+        "_id": "62298ce5ab524742bc0c8d2e",
+        "title": "Pasta Zara Conchiglie",
+        "department": "Snacks",
+        "description": "Snacks",
+        "quantity": "500 gm",
+        "price": 278,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646890210/epwk5abke5vxrtawzema.webp"
+    },
+    {
+        "_id": "6229c4ed6c80468098beca6d",
+        "title": "Garnier Light Complete Whitening Serum Cream Spf 19",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "45 gm",
+        "price": 209,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646904557/gmn0os92qivwzvjwb2gp.webp"
+    },
+    {
+        "_id": "6228eb8dd3896ef167fadf5a",
+        "title": "Nivea Lotion Body Milk Nourishing",
+        "department": "BeautyHealth",
+        "description": "Beauty Care",
+        "quantity": "125 ml",
+        "price": 250,
+        "stock": "in",
+        "imagePath": "http://res.cloudinary.com/da01skdwc/image/upload/v1646848861/rgmleiy4rqjehs5ntjl5.webp"
+    }
+    ]
+      
+
