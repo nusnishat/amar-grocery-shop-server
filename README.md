@@ -1,4 +1,4 @@
-## Backend Overview
+oonk ## Backend Overview
 
 The backend of the Amar-Grocery e-commerce website is built using Node.js and Express.js, with MongoDB as the database solution. The server is set up to handle various API requests related to user management, product listings, cart operations, order processing, and contact form submissions.
 
@@ -59,14 +59,4 @@ The backend of the Amar-Grocery e-commerce website is built using Node.js and Ex
    npm install
 
 
-# Checkout
 
-https://amar-grocery-shop-server.onrender.com/products
-
-https://amar-grocery-shop-server.onrender.com/users
-
-https://amar-grocery-shop-server.onrender.com/contactUs
-
-https://amar-grocery-shop-server.onrender.com/cartProducts
-
-https://amar-grocery-shop-server.onrender.com/orders
